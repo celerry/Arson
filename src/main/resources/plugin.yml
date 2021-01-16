@@ -1,0 +1,11 @@
+name: Arson
+version: @version@
+description: Adds Arson to your server
+author: celerry
+main: com.celerry.arson.Arson
+depend: [WorldGuard, WorldEdit]
+
+commands:
+  arson:
+    description: Arson root command
+    usage: /arson

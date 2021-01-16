@@ -1,0 +1,1 @@
+Put WorldEdit.jar and worldguard-bukkit-6.2.2.jar here
